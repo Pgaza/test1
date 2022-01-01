@@ -1,3 +1,3 @@
-function casa () { casa=1}
+function casa () { casa=2}
 
  
